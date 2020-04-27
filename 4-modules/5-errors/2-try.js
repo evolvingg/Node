@@ -1,7 +1,7 @@
 const path = require('path');
 const fs = require('fs');
 
-const files = ['.bash_profile', 'kjkjhh', '.npmrc'];
+const files = ['Documents/autoComplete.html', 'kjkjhh',  'Documents/README.md'];
 
 files.forEach(file => {
   try {
